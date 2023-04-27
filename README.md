@@ -1,2 +1,2 @@
-# Project 1 for College
+# Project 1 for university
 project
